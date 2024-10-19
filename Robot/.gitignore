@@ -1,0 +1,4 @@
+*.xls
+*.log
+\pyLogs\*
+\Scripts\excel_docs\*

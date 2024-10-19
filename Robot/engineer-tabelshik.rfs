@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Robot>
+  <Studio Version="1.0.2.0" />
+  <Schema>
+    <Base.Sequence type_guid="32c6fcaa-cbe4-4fab-afd9-8113b8a5190b" Name="" Description="" GUID="192ca87d-d9bc-4525-a2d0-2844c431434d" Next="" Previous="" Parent="" UI_identifier="" DelayTime="0" TryCatch="00000000-0000-0000-0000-000000000000" Breakpoint="false" Exclude="false">
+      <List />
+    </Base.Sequence>
+  </Schema>
+  <Variables>
+    <List />
+  </Variables>
+  <Contexts>
+    <List />
+  </Contexts>
+</Robot>

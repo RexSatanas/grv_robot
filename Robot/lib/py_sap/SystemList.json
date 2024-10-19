@@ -1,0 +1,872 @@
+[
+    {
+        "sysid": "A02200",
+        "connectionString": "/M/sapcla02.svrw.oao.rzd/S/3601/G/LG_A02",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "A03200",
+        "connectionString": "/M/sapcla03.svrw.oao.rzd/S/3608/G/ASD",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "APD200",
+        "connectionString": "/M/olib.gvc.oao.rzd/S/3600/G/LG_APD",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "APK200",
+        "connectionString": "/M/msk-fpk-sapdb.msk.oao.rzd/S/3601/G/LG_APK",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "ASD200",
+        "connectionString": "/M/baikal.gvc.oao.rzd/S/3600/G/ASD_CA_O",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "AVG200",
+        "connectionString": "/M/este.gvc.oao.rzd/S/3600/G/LG_AVG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "B00200",
+        "connectionString": "/M/eclipse.gvc.oao.rzd/S/3603/G/LG_B00",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "B52200",
+        "connectionString": "/M/helles.gvc.oao.rzd/S/3620/G/LG_B52",
+        "username": "",
+        "version": "702"
+    },
+    {
+        "sysid": "BMX200",
+        "connectionString": "/M/lome.gvc.oao.rzd/S/3622/G/LG_BMX",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "CFM400",
+        "connectionString": "/H/10.248.34.127/S/3292",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "CFM607",
+        "connectionString": "/H/10.248.34.127/S/3292",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "CFM630",
+        "connectionString": "/H/10.248.34.127/S/3292",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "CSS633",
+        "connectionString": "/M/sapclcss.svrw.oao.rzd/S/3685/G/CO",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "CSS640",
+        "connectionString": "/M/sapclcss.svrw.oao.rzd/S/3685/G/CO",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "DCF601",
+        "connectionString": "/H/willis.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "DH7200",
+        "connectionString": "/H/bender.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "DHE200",
+        "connectionString": "/H/infine.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "DHR200",
+        "connectionString": "/H/grenada.gvc.oao.rzd/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "DHR300",
+        "connectionString": "/H/grenada.gvc.oao.rzd/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "DIF200",
+        "connectionString": "/H/10.246.105.249/S/3200",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "ERD200",
+        "connectionString": "/M/sirius.gvc.oao.rzd/S/3620/G/LG_ERD",
+        "username": "",
+        "version": "702"
+    },
+    {
+        "sysid": "EXP200",
+        "connectionString": "/M/gemmera.gvc.oao.rzd/S/3600/G/LG_EXP",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "F01602",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01615",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01624",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01634",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01688",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01694",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F01696",
+        "connectionString": "/M/msk-sapf01-00.gvc.oao.rzd/S/3601/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02400",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02500",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02606",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02607",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02630",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "F02676",
+        "connectionString": "/M/sapclf02.svrw.oao.rzd/S/3622/G/LG_ASUFR",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "FRS600",
+        "connectionString": "/M/mallorca.gvc.oao.rzd/S/3601/G/FRS_LG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "H01200",
+        "connectionString": "/M/sapclh01.svrw.oao.rzd/S/3620/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H10200",
+        "connectionString": "/M/sapclh10.svrw.oao.rzd/S/3670/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H17200",
+        "connectionString": "/M/sapclh17.svrw.oao.rzd/S/3600/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H28200",
+        "connectionString": "/M/sapclh28.svrw.oao.rzd/S/3610/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H51200",
+        "connectionString": "/M/sapclh51.svrw.oao.rzd/S/3630/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H58200",
+        "connectionString": "/M/sapclh58.svrw.oao.rzd/S/3640/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H61200",
+        "connectionString": "/M/sapclh61.svrw.oao.rzd/S/3650/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H63200",
+        "connectionString": "/M/sapclh63.svrw.oao.rzd/S/3660/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H80200",
+        "connectionString": "/M/sapcl80.svrw.oao.rzd/S/3620/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H83200",
+        "connectionString": "/M/sapcl83.svrw.oao.rzd/S/3610/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H92200",
+        "connectionString": "/M/sapcl92.svrw.oao.rzd/S/3660/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H94200",
+        "connectionString": "/M/sapcl94.svrw.oao.rzd/S/3650/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H96200",
+        "connectionString": "/M/sapcl96.svrw.oao.rzd/S/3640/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H99200",
+        "connectionString": "/M/sapcl99.svrw.oao.rzd/S/3680/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "H99300",
+        "connectionString": "/M/sapcl99.svrw.oao.rzd/S/3680/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "HCE200",
+        "connectionString": "/M/sapclhce.svrw.oao.rzd/S/3680/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "HDU200",
+        "connectionString": "/M/sapclhdu.svrw.oao.rzd/S/3605/G/ASUTR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "HFK200",
+        "connectionString": "/M/kovir.gvc.oao.rzd/S/3600/G/LG_HFK",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "HIF200",
+        "connectionString": "/M/gvc-saphif-01.gvc.oao.rzd/S/3620/G/LG_HIF",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "HIT200",
+        "connectionString": "/M/galaxy.gvc.oao.rzd/S/3601/G/LG_HIT",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "HKU200",
+        "connectionString": "/M/nazair.gvc.oao.rzd/S/3600/G/SPACE",
+        "username": "",
+        "version": "730"
+    },
+    {
+        "sysid": "HPD200",
+        "connectionString": "/M/sapclhpd.svrw.oao.rzd/S/3613/G/HPD_LG",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "HR1224",
+        "connectionString": "/M/sapclhr1.svrw.oao.rzd/S/3601/G/LG_ASUTR",
+        "username": "",
+        "version": "740"
+
+    },
+    {
+        "sysid": "HR1268",
+        "connectionString": "/M/sapclhr1.svrw.oao.rzd/S/3601/G/LG_ASUTR",
+        "username": "",
+        "version": "740"
+
+    },
+    {
+        "sysid": "HR1276",
+        "connectionString": "/M/sapclhr1.svrw.oao.rzd/S/3601/G/LG_ASUTR",
+        "username": "",
+        "version": "740"
+
+    },
+    {
+        "sysid": "HR1288",
+        "connectionString": "/M/sapclhr1.svrw.oao.rzd/S/3601/G/LG_ASUTR",
+        "username": "",
+        "version": "740"
+
+    },
+    {
+        "sysid": "HRD200",
+        "connectionString": "/M/sapclhrd.svrw.oao.rzd/S/3690/G/ASUTR",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "HRK200",
+        "connectionString": "/M/sapclhrk.svrw.oao.rzd/S/3600/G/HRK_LG",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "HRK300",
+        "connectionString": "/M/sapclhrk.svrw.oao.rzd/S/3600/G/HRK_LG",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "HRK400",
+        "connectionString": "/M/sapclhrk.svrw.oao.rzd/S/3600/G/HRK_LG",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "HVG200",
+        "connectionString": "/M/baldur.gvc.oao.rzd/S/3600/G/HVG_LG",
+        "username": "",
+        "version": "620"
+
+    },
+    {
+        "sysid": "N00300",
+        "connectionString": "/M/eclipse.gvc.oao.rzd/S/3612/G/N00",
+        "username": "",
+        "version": "702"
+
+    },
+    {
+        "sysid": "N00550",
+        "connectionString": "/M/eclipse.gvc.oao.rzd/S/3612/G/N00",
+        "username": "",
+        "version": "702"
+
+    },
+    {
+        "sysid": "N00600",
+        "connectionString": "/M/eclipse.gvc.oao.rzd/S/3612/G/N00",
+        "username": "",
+        "version": "702"
+
+    },
+    {
+        "sysid": "NCI600",
+        "connectionString": "/M/palma.gvc.oao.rzd/S/3600/G/LG_NCI",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P00200",
+        "connectionString": "/M/andros.gvc.oao.rzd/S/3600/G/LG_P00",
+        "username": "",
+        "version": "702"
+
+    },
+    {
+        "sysid": "P10610",
+        "connectionString": "/M/sapclp10.svrw.oao.rzd/S/3610/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P28628",
+        "connectionString": "/M/p28.erp.rzd/S/3620/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P51651",
+        "connectionString": "/M/p51.erp.rzd/S/3660/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P58658",
+        "connectionString": "/M/p58.erp.rzd/S/3650/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P61661",
+        "connectionString": "/M/p61.erp.rzd/S/3640/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P63663",
+        "connectionString": "/M/p63.erp.rzd/S/3670/G/ASUFR",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P68668",
+        "connectionString": "/M/sapclp68.svrw.oao.rzd/S/3668/G/TDS",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P80680",
+        "connectionString": "/M/sapclp80.svrw.oao.rzd/S/3620/G/TDS",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "P83883",
+        "connectionString": "/M/sapclp83.svrw.oao.rzd/S/3610/G/TDS",
+        "username": "",
+        "version": "700"
+
+    },
+    {
+        "sysid": "PBC200",
+        "connectionString": "/M/maputa.gvc.oao.rzd/S/3602/G/LG_PBC",
+        "username": "",
+        "version": "730"
+    },
+    {
+        "sysid": "PBH200",
+        "connectionString": "/M/flood.gvc.oao.rzd/S/3601/G/LG_PBH",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PBO300",
+        "connectionString": "/M/sap-pbo-db.gvc.oao.rzd/S/3621/G/LG_PBO",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "PCT631",
+        "connectionString": "/M/pct.erp.rzd/S/3618/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PCT632",
+        "connectionString": "/M/pct.erp.rzd/S/3618/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PDI650",
+        "connectionString": "/M/canaria.gvc.oao.rzd/S/3609/G/LG_PDI",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "PDU655",
+        "connectionString": "/M/sapclpdu.svrw.oao.rzd/S/3609/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PFK636",
+        "connectionString": "/M/lyria.gvc.oao.rzd/S/3609/G/LG_PFK",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PFM200",
+        "connectionString": "/H/10.248.34.165/S/3200",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "PHR200",
+        "connectionString": "/M/nauru.gvc.oao.rzd/S/3612/G/PHR",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "PIR200",
+        "connectionString": "/H/gvc-sapapp-17.gvc.oao.rzd/S/3231",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "PKS200",
+        "connectionString": "/H/gvc-sapapp-14.gvc.oao.rzd/S/3203",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "PLS500",
+        "connectionString": "/M/tenerife.gvc.oao.rzd/S/3600/G/LG_PLS",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PMO611",
+        "connectionString": "/M/pmo.erp.rzd/S/3600/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PMO612",
+        "connectionString": "/M/pmo.erp.rzd/S/3600/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PMO614",
+        "connectionString": "/M/pmo.erp.rzd/S/3600/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PMO652",
+        "connectionString": "/M/pmo.erp.rzd/S/3600/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PMT418",
+        "connectionString": "/M/pmt.erp.rzd/S/3611/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PPI200",
+        "connectionString": "/H/gvc-sapppi-01.gvc.oao.rzd/S/3215",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "PPK200",
+        "connectionString": "/H/hdpkhanadb.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "PR1601",
+        "connectionString": "/M/pr1.erp.rzd/S/3630/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PRK603",
+        "connectionString": "/M/sapclprk.svrw.oao.rzd/S/3609/G/PRK_LG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PRK604",
+        "connectionString": "/M/sapclprk.svrw.oao.rzd/S/3609/G/PRK_LG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PRK605",
+        "connectionString": "/M/sapclprk.svrw.oao.rzd/S/3609/G/PRK_LG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PRM420",
+        "connectionString": "/M/10.76.48.9/S/3666/G/other",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PRV440",
+        "connectionString": "/M/sapclprv.svrw.oao.rzd/S/3603/G/PRV_LG",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PSK200",
+        "connectionString": "/M/inagua.gvc.oao.rzd/S/3610/G/LG_PSK",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "PSP200",
+        "connectionString": "/H/gvc-sapdb-24.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "750"
+    },
+    {
+        "sysid": "PUL450",
+        "connectionString": "/M/sap-pul.orw.oao.rzd/S/3600/G/LG_PUL",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "PVD200",
+        "connectionString": "/H/vizima.gvc.oao.rzd/S/3230",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "QHR101",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "QHR110",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "QHR180",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "QHR196",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "QHR200",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "QHR801",
+        "connectionString": "/H/10.248.14.70/S/3210",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "R00200",
+        "connectionString": "/M/angren.gvc.oao.rzd/S/3612/G/R00_CA",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "R17617",
+        "connectionString": "/M/r17.erp.rzd/S/3680/G/ASUFR",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "ROS200",
+        "connectionString": "/M/msk-sapros-db.msk.oao.rzd/S/3625/G/LG_ROS",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "SBO200",
+        "connectionString": "/H/10.248.14.23/S/3200",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "SI2200",
+        "connectionString": "/M/sapapp01.gvc.oao.rzd/S/3601/G/LG_SI2",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "SKC200",
+        "connectionString": "/H/gvc-sapskc-db.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "SOI200",
+        "connectionString": "/M/everest.gvc.oao.rzd/S/3610/G/LG_SOI",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "SSO200",
+        "connectionString": "/M/asgard.gvc.oao.rzd/S/3610/G/LG_SSO",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "SVK200",
+        "connectionString": "/M/gvc-sapsvk-db.gvc.oao.rzd/S/3626/G/LG_SVK",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "T00200",
+        "connectionString": "/H/10.248.34.189/S/3201",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "TBC200",
+        "connectionString": "/H/10.248.34.136/S/3211",
+        "username": "",
+        "version": "730"
+    },
+    {
+        "sysid": "TBI200",
+        "connectionString": "/M/10.248.14.58/S/3604",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "TH7200",
+        "connectionString": "/H/bender.gvc.oao.rzd/S/3210",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "THE200",
+        "connectionString": "/H/infine.gvc.oao.rzd/S/3220",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "THR200",
+        "connectionString": "/H/10.248.14.70/S/3207",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "TLS500",
+        "connectionString": "/H/10.248.34.152/S/3250",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "TPK200",
+        "connectionString": "/H/10.248.34.190/S/3201",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "TSD200",
+        "connectionString": "/H/10.248.14.73/S/3210",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "TSH200",
+        "connectionString": "/H/botsvana.gvc.oao.rzd/S/3202",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "TSI200",
+        "connectionString": "/H/rep04t.grw.oao.rzd/S/3200",
+        "username": "",
+        "version": "620"
+    },
+    {
+        "sysid": "U00200",
+        "connectionString": "/M/cidaris.gvc.oao.rzd/S/3600/G/LG_U00",
+        "username": "",
+        "version": "740"
+    },
+    {
+        "sysid": "VGR200",
+        "connectionString": "/M/suara.gvc.oao.rzd/S/3620/G/LG_VGR",
+        "username": "",
+        "version": "702"
+    },
+    {
+        "sysid": "X00001",
+        "connectionString": "/H/ladoga.gvc.oao.rzd/S/3200",
+        "username": "",
+        "version": "700"
+    },
+    {
+        "sysid": "ZHR200",
+        "connectionString": "/M/10.76.48.4/S/3690/G/LG_ZHR",
+        "username": "",
+        "version": "620"
+    }
+]
